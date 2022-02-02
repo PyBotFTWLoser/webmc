@@ -11,6 +11,8 @@
 ## Demo
 Live demo with no installation: https://minecraft.js.org.
 
+Heroku Installation (Not working) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 ## Developing on webmc
 
